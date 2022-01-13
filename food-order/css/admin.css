@@ -1,0 +1,53 @@
+
+.btn-secondary{
+    background-color: green;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: boild;
+}
+.btn-main{
+    background-color: rgb(6, 29, 107);
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: boild;
+}
+.btn-main:hover{
+    background-color: rgb(53, 68, 153);
+}
+
+.btn-secondary:hover{
+    background-color: rgb(150, 177, 150);
+}
+.btn-danger{
+    background-color: red;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: boild;
+}
+
+.btn-danger:hover{
+    background-color: rgb(226, 178, 178);
+    
+} 
+.success{
+    color:rgb(6, 146, 6);
+}
+.error{
+    color:rgb(155, 41, 41);
+}
+
+/*CSS For LOgin */
+.login{
+    border: 1px solid grey;
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+    background-color: rgb(212, 154, 167);
+}
+h1 {text-align: center;}
+.zingals{
+    text-align: center;
+}
