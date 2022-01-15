@@ -131,10 +131,11 @@
                 <div class= "col-lg-5 col-md-12 text-sec">
                   <h2>We are here to servs you all sorts of delicious food.</h2>
                   <p>
-                    andkjfajoijeifjqwejflkasmdfkljaeoigjqwoijkldnjwef
-                    dqjeojoqijwfknslkbnkdjijqergalkvnakjgqjeiolgjeiorjg
-                    kankjneigjiueknadkjandjrjglajwoijwitjq34t98u340tgjl
-                    gijlksjiweurjg9ujqljvak
+                    Khadok is promised to provide you the diffrents 
+                    types of foods. You can choose any types of food
+                    like Pizza, Burger, Kacchi, drinks etc. We always 
+                    try to provide the most delicious food to our 
+                    consumers. 
                   </p>
                   <button class= "main-btn mt-4"> Learn More</button>
                 </div>
@@ -145,10 +146,10 @@
                 <div class= "col-lg-5 col-md-12 text-sec mb-lg-0 mb-5">
                   <h2>We provide the foods made with joy and best ingredient</h2>
                   <p>
-                    Life zingalala kasdjifjaldnakjfqj
-                    ksadfnijefijqwoijflasdvnqkwejgiqwfjlqw
-                    jwiguhqlghlad v,anljqewuhglqwejlkjqfjeio
-                    aksdnkjaaaaaaaaaadnfjqioejoijqwoeiqnn
+                    When comes to food then quality matters. We are here 
+                    to provide the foods which are made with the best ingredients.
+                    We make sure that our consumers are getting the helathy foods 
+                    from us. We always maintain food quality from our website.
                   </p>
                   <ul class= "list-unstyled py-3">
                     <li>la isla minima </li>
@@ -176,8 +177,9 @@
                   <h2>Khudar Rajje Prithibi Goddomoy, Purnima Chand Jeno Jholshano Ruti</h2>
                   <p>
                     Actually this is a well known proverb in our country.
-                    kjsogjerjnvknivjweorjgwjerojqlnksdnm wjgijwergjrjglq
-                    qnweijqwejjdasdkvnjjervkdvijeorj
+                    If you are hungry enough then everything is gonna be 
+                    tasty to you. But we always assure that our consumers 
+                    are getting the tasty foods by our delviry systems.
                   </p>
                   <button class= "main-btn mt-3">Read More</button>
                 </div>
@@ -194,9 +196,9 @@
                   <div class= "text-content text center">
                     <h2>Explore Our Foods</h2>
                     <p>
-                      Foooooooooooooooooooooooooooooooooooooooood
-                      Foooooooooooooooooooooooooooooooooooooooood
-                      Foooooooooooooooooooooooooooooooooooooooood
+                      Here is our food categories. You can choose by yoursellf
+                      whatever you want to eat. We are here to provide you the 
+                      best experience with the different categories foods. 
                     </p>
                   </div>
                 </div>
@@ -248,9 +250,10 @@
                   <div class= "text-content text center">
                     <h2>Explore Our Restaurent</h2>
                     <p>
-                      Reeeeeeeeeeeessssssssssssstaaaaaaaaaaaaaaaaakrgnergqr
-                      knreogjo3erjgksdvlkwqoeirjgoiwdlvmkserboiwjrgnlkanl3q
-                      awnrgow3jrjgnvkeoirjgioj3oirglwegmjlo3ijgio3j4gklek
+                      I want to buy a Burger but I also want it from a 
+                      specific restaurent. Yes, you are right! For you, we
+                      are offering foods from diffrents restaurents. Select your 
+                      desired restaurent and order your favourite food items. 
                     </p>
                   </div>
                 </div>
